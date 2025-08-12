@@ -1,0 +1,45 @@
+# Compiled source code
+*.class
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# C/C++
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.out
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# Miscellaneous
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
